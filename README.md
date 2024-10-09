@@ -1,5 +1,5 @@
 # flan-t5-lora-performance
-flan-t5-lora-performance (NeurIPS challenge validation set : xsum, cosmos_qa) 
+flan-t5-lora-performance (NeurIPS challenge validation set : xsum, cosmos_qa https://github.com/llm-merging/LLM-Merging/tree/main/data/validation) 
 
 https://docs.google.com/spreadsheets/d/12Iv-6HgG8Ahm58k25qgxiN8eKkA06rbX5WwhH9FJ2ss/edit?usp=sharing
 
